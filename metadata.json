@@ -1,0 +1,6 @@
+{
+  "name": "Markdown Slides Generator",
+  "description": "Create beautiful visual presentation slides from simple Markdown input with AI layout generation and Google Slides export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
